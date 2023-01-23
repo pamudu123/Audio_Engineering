@@ -1,5 +1,19 @@
-# Audio_Engineering
+<p align="center">
 
+  <h1 align="center">EE 599 Audio Engineering</h3>
+
+  <h2 align="center">
+    E/16/306 Pamudu Ranasinghe
+  </h2>
+</p>
+
+</br>
+<h4 align="center">
+  
+For more detailed Presentation <a href=https://github.com/gvanrossum>click here</a>
+</h4>
+
+</br>
 
 <table align="center">
   <tr align="center">
