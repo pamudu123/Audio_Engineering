@@ -10,7 +10,7 @@
 </br>
 <h4 align="center">
   
-For more detailed Presentation <a href="https://sites.google.com/view/audioengineering-16306/home?authuser=0">click here</a>
+For more detailed Presentation <a href="https://sites.google.com/view/audioengineering-16306/home?authuser=0" target="_blank">click here</a>
 </h4>
 
 </br>
